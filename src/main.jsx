@@ -7,15 +7,17 @@ import { MantineProvider } from '@mantine/core'
 import { StudentProvider } from './componants/context/StudentsContext.jsx'
 
 createRoot(document.getElementById('root')).render(
+   <StrictMode>
   <MantineProvider>
   <StudentProvider>
   <BrowserRouter>
-  <StrictMode>
+ 
     <App />
-  </StrictMode>
+  
   </BrowserRouter>
   </StudentProvider>
   </MantineProvider>
+  </StrictMode>
         
  ,
 )
