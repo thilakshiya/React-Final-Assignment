@@ -1,0 +1,224 @@
+.color{
+  background-color:aliceblue;
+  text-align: center;
+  padding-bottom: 600px;
+}
+
+
+
+
+.font{
+  text-align: center;
+  font-size: 100px;
+}
+
+
+.size{
+  text-align: center;
+  font-size: 30px;
+  color: deeppink;
+}
+
+.btn{
+  margin-top: 10px;
+  margin-top: 70px;
+  
+}
+.btn01{
+  background-color: blue;
+
+  padding: 20px;
+}
+.btn02{
+  background-color: blue;
+  margin-left: 50px;
+  padding: 20px;
+}
+.btn03{
+  background-color:darkgreen;
+}
+.box{
+  background-color: aliceblue;
+  
+}
+
+.box01{
+  border: 2px solid black; 
+  padding: 20px;           
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aqua;
+  box-sizing: border-box;
+  width: 100%;
+  
+}
+
+.box02{
+  border: 2px solid black;  
+  padding: 20px;           
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aqua;
+  box-sizing: border-box;
+  width: 100%;
+ }
+.box03{
+  border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aqua;
+  box-sizing: border-box;
+  width: 100%;
+  
+}
+.btn04{
+  background-color: chartreuse;
+}
+.btn05{
+  background-color:darkorange ;
+}
+.stud{
+  text-align: center;
+}
+
+.stud01{
+  border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.stud.h1{
+  font-size: 100px;
+}
+.stud02{
+   border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%; 
+}
+.stud03{
+    border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.stud04{
+    border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.stud05{
+    border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+#id main{
+  background-color: salmon;
+}
+.about01{
+  font-size: 70px;
+  color: blueviolet;
+}
+.about02{
+  font-size: 50px;
+  
+}
+.image01{
+  margin-left: 400px;
+}
+.leval{
+  text-align: center;
+  color:black;
+  font-size: 40px;
+}
+.mar01{
+  height: 100px;
+  width: 100px;
+}
+.mar02{
+  height: 100px;
+  width: 100px;
+}
+.mar03{
+  display: flex;
+  margin-left: 600px;
+
+}
+.fb{
+  height: 100px;
+  width: 100px;
+
+
+}
+.tw{
+  height: 100px;
+  width: 100px;
+
+}
+.page{
+  display: flex;
+  margin-left: 600px;
+  
+}
+.ins{
+  
+  height: 100px;
+  width: 100px;
+ 
+
+}
+.abo01{
+   border: 2px solid black;  
+  padding: 20px;        
+  max-width: 400px;        
+  margin: 20px auto;
+  background-color:aliceblue;
+  box-sizing: border-box;
+  width: 100%;
+}
+.abo{
+  background-color: aqua;
+  margin-left: 400px;
+  display: flex;
+}
+.hello{
+  text-align: center;
+  font-size: 100px;
+  color:brown;
+}
+
+form{
+  text-align: center;
+  /* margin-left: 100px; */
+  /* margin-top: 130px; */
+  /* border-color:black; */
+ border-width: 0;
+ border-radius: 5px;
+}
+.butt{
+  background-color: rgb(7, 7, 248);
+  width: 500px;
+  margin-top: 20px;
+  height: 40px;
+  color: white;
+  border-radius: 10px;
+}
+
